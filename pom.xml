@@ -824,7 +824,7 @@ But it might be needed for Java 10, because I get this error, that I don't get w
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
-			<version>4.5.12</version>
+			<version>4.5.13</version>
 		</dependency>
 
 		<dependency>
